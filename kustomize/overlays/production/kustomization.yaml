@@ -14,4 +14,4 @@ patchesJson6902:
 images:
   - name: docker.io/ACCOUNT/IMAGE
     newName: lingxiankong/blog-demo
-    newTag: 1.0.0
+    newTag: 1.1.0
